@@ -2,7 +2,7 @@
 
 An implementation of neural style in Pytorch from ["Image Style Transfer Using Convolutional Neural Networks" (Gatys et al., CVPR 2015)](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)..
 
-#network 
+# network 
 
 - the ntwork used to extract the features from the image is [SqueezeNet](https://arxiv.org/abs/1602.07360) Beacause it's very small an efficient 
 
