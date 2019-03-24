@@ -4,7 +4,7 @@ An implementation of neural style in Pytorch from ["Image Style Transfer Using C
 
 # network 
 
-- the ntwork used to extract the features from the image is [SqueezeNet](https://arxiv.org/abs/1602.07360) Beacause it's very small an efficient 
+- the network used to extract the features from the image is [SqueezeNet](https://arxiv.org/abs/1602.07360) Beacause it's very small an efficient 
 
 # Examples
 As any great programmer, i used my photo :D
